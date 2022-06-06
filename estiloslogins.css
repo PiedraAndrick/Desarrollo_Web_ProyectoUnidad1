@@ -1,0 +1,13 @@
+.logins {
+    width: 100%;  
+    min-height: 100vh;
+    display: -webkit-flex;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background: -webkit-linear-gradient(to right, #00dbde, #fc00ff);
+    background: linear-gradient(to right, #00dbde, #fc00ff);
+    background-image: url("img/fondobici.webp");
+  }
